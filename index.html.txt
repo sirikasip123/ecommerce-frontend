@@ -6,6 +6,8 @@
 
 <body>
 
+<title>Hello</title>
+
 </body>
 
 </html>
